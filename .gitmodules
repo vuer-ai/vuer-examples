@@ -1,0 +1,6 @@
+[submodule "vuer-example-01_trimesh"]
+	path = vuer-example-01_trimesh
+	url = https://github.com/vuer-ai/vuer-example-01_trimesh.git
+[submodule "vuer-example-02_pointcloud"]
+	path = vuer-example-02_pointcloud
+	url = https://github.com/vuer-ai/vuer-example-02_pointcloud.git
