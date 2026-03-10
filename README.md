@@ -11,7 +11,7 @@ This repository contains individual example projects, each in its own git reposi
 ### Clone with all examples
 
 ```bash
-git clone --recursive https://github.com/your-org/vuer-examples.git
+git clone --recursive https://github.com/vuer-ai/vuer-examples.git
 cd vuer-examples
 ```
 
