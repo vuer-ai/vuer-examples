@@ -1,0 +1,15 @@
+[project]
+name = "vuer-example-102-hand-pose-mano"
+version = "0.1.0"
+description = "Visualize Dyn-HaMR MANO hand pose reconstruction using Vuer"
+requires-python = ">=3.10"
+dependencies = [
+    "vuer",
+    "numpy",
+    "params-proto",
+    "scipy",
+    "pillow",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]

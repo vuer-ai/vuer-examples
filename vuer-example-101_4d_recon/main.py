@@ -263,7 +263,7 @@ def main(
                     fov=fov,
                     aspect=aspect,
                     near=0.01,
-                    far=2,
+                    far=0.1,
                     position=cam_positions[frame],
                     rotation=cam_rotations[frame],
                     makeDefault=True,
