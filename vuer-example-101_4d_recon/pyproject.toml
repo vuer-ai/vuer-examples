@@ -1,0 +1,16 @@
+[project]
+name = "vuer-example-101-4d-recon"
+version = "0.1.0"
+description = "Visualize VGGT 4D reconstruction outputs using Vuer"
+requires-python = ">=3.10"
+dependencies = [
+    "vuer",
+    "numpy",
+    "params-proto",
+    "matplotlib",
+    "pillow",
+    "scipy>=1.15.3",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]

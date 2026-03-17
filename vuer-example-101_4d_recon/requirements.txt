@@ -1,0 +1,4 @@
+vuer
+numpy
+params-proto
+matplotlib
